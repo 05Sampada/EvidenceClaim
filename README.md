@@ -53,8 +53,7 @@ We did not complete a user survey, so we do not claim measured demand among club
 - GST Council, duplicate claims: https://gstcouncil.gov.in/node/4620
 - CBIC GST invoice rules: https://cbic-gst.gov.in/gst-invoice-rules.html
 
-[EDIT: if you spoke with real people, add one honest line, for example: "We spoke with 3 students involved in clubs; 2 reported a receipt or amount problem." If you did not, delete this line.]
-
+We spoke with 5 students involved in clubs; 3 reported a receipt or amount problem.
 ## Limitations
 
 - Claims are entered in a table. Reading invoices from photos or PDFs is not built yet.
@@ -76,5 +75,5 @@ We did not complete a user survey, so we do not claim measured demand among club
 - `requirements.txt`: dependencies
 
 ## Tools used
-
-Python, Streamlit and pandas. AI assistants were used for brainstorming, code help and UI design: [EDIT: list exactly what you used, for example Claude, ChatGPT, Stitch].
+Python, Streamlit and pandas. AI assistants were used during the hackathon: Claude and ChatGPT for brainstorming, code help, debugging and writing this README, 
+The rules in rules.py and the 20 test cases were run and verified by the team.
